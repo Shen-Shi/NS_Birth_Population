@@ -1,2 +1,3 @@
-# NS_Birth_Population
 The data and code available in paper "On the initial spin period distribution of neutron stars"
+
+The file "Pulsar_SNR_obs.txt" includes the information of Galactic pulsars associated with supernova remnants. The columns from left to right are respectively the lower bound of supernova remnant age (kyr), the upper bound of supernova remnant age (kyr), characteristic age (kyr), observed period (s), statistical error of observed period, observed period derivative (s s^{-1}), statistical error of observed period derivative, strength of dipole field (G), braking index, observed flux density at 1400 GHz, observed error of flux density at 1400 GHz, dispersion measure distance, Spin down energy loss rate (ergs/s), and the error of braking index. 
