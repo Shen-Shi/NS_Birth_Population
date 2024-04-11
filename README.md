@@ -1,4 +1,4 @@
-The data sets used in paper: "On the initial spin period distribution of neutron stars" at \url{https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240214030D/arxiv:2402.14030}
+The data sets used in paper: "On the initial spin period distribution of neutron stars" at https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240214030D/arxiv:2402.14030
 
 The data file "Pulsar_SNR_obs.txt" includes the data of selected Galactic pulsars associated with supernova remnants. 
 
